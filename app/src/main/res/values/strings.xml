@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LogInWithGoogle</string>
+    <string name="facebook_app_id">255338715242065</string>
+    <string name="fb_login_protocol_scheme">fb255338715242065</string>
+    <string name="twitter_api_key">	4TTB4wHePzHg56jvannVRU7KF</string>
+    <string name="twitter_api_secret">1HMf7m2umAv1EBxBDI6YF5fwcMJF7v5V1IPME2CQfHWDBv69hJ</string>
+</resources>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":linkedin-sdk"><source path="D:\Android_Projects\LogInWithGoogle\linkedin-sdk\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="D:\Android_Projects\LogInWithGoogle\eventsapp\src\main\assets"/><source path="D:\Android_Projects\LogInWithGoogle\eventsapp\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\Android_Projects\LogInWithGoogle\eventsapp\src\debug\assets"/></dataSet></merger>
